@@ -1,0 +1,10 @@
+this project depends on GPU so please make sure that you have a GPU and GPU installed environment 
+download :featuresMen.pkl
+featuresNew.pkl
+
+from->https://drive.google.com/drive/folders/1nMzO8R_NPW_KVxM_O3bosTu7hBppNV-6
+
+and please read the READM.txt files in static folder and checkpoints folder 
+
+thank you very very much!
+ 
